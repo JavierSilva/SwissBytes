@@ -1,0 +1,4 @@
+F:\Proyectos desarrollos Lab Zuna\appMarsRovers\appMarsRovers\bin\Debug\appMarsRovers.exe
+F:\Proyectos desarrollos Lab Zuna\appMarsRovers\appMarsRovers\bin\Debug\appMarsRovers.pdb
+F:\Proyectos desarrollos Lab Zuna\appMarsRovers\appMarsRovers\obj\x86\Debug\appMarsRovers.exe
+F:\Proyectos desarrollos Lab Zuna\appMarsRovers\appMarsRovers\obj\x86\Debug\appMarsRovers.pdb

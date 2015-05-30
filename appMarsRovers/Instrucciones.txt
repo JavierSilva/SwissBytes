@@ -1,0 +1,5 @@
+﻿1.- Invocar el .exe del proyecto desde la consola de comandos de windows enviandole como parametro la ruta del archivo .txt que tiene las instrucciones de los Rovers.
+
+	Ej:
+
+	C:\appMarsRovers\appMarsRovers\bin\Release\appMarsRovers "F:\roverMovimiento.txt"
